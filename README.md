@@ -1,0 +1,1 @@
+# local_security_competition
