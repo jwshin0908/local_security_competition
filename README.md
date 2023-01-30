@@ -1,3 +1,3 @@
 # local_security_competition
 
-repository for 2023 local security competition
+제 1회 2023년 지역 치안 안전 데이터 분석 공모전
