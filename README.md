@@ -4,10 +4,10 @@
 
 <h3 align='center'> [ 이륜차 교통사고 위험도 분석 및 대전광역시 위험지역 선정 ] </h3>
 
+<h4 align='center'> 🛵 </h4>
 
-```
-메인 이미지
-```
+
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/66217855/218964018-179e68a6-0df5-4b65-a650-5ae148aa2c5c.png">
 
 ---
 
