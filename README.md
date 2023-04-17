@@ -36,6 +36,18 @@
 
 &nbsp;  
 
+<h3 align='center'> 🏆최우수상🏆 </h3>
+
+
+<div align='center'>
+
+<a href="https://www.bigdata-policing.kr/board/b_contest/view?idx=179&category="> 2023 지역 치안 안전 데이터 분석 경진대회 수상작 공지</a>
+
+</div>
+
+
+&nbsp;  
+
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/66217855/218969595-86ae8686-4cdc-4307-bdd6-dfa4e75a1aa9.png">
 
 <img width="1195" alt="image" src="https://user-images.githubusercontent.com/66217855/218964599-bb94a3fc-88b3-4dde-a58e-5dfc8fd6b4d1.png">
